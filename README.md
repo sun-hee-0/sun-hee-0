@@ -1,7 +1,6 @@
 - 👋 Hi, I’m sunhee
 - 👩🏻‍💻 I am getting ready for developer 
 
-https://shields.io/
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=sun-hee-0&show_icons=true) 
 
 <!---
