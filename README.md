@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sun-hee-0
+- 👋 Hi, I’m sunhee
 - 👩🏻‍💻 I am getting ready for developer 
 
 
