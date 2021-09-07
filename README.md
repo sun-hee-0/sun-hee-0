@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 #### Introduce Myself 🧚🏻‍♀️
 - 🌱 learning WEB back-end + algorithm
-- 👩🏻 studying at dongduk women's university 
+- 👩🏻  studying at dongduk women's university 
 - 📚 the Department of Library and Information science
 - Now, 👩🏻‍💻 I am getting ready for developer 
 
